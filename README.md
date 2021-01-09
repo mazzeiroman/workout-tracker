@@ -17,7 +17,7 @@
 https://github.com/mazzeiroman/workout-tracker
 
 ## Link to the Deployed Application
- https://wo-tracker.herokuapp.com/
+ https://stormy-hamlet-82782.herokuapp.com/?id=5ff9564eea105100175c6cba
 
 ## Description
  A full-stack application. A workout tracker developed using MongoDB, Node and Express.
